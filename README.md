@@ -18,6 +18,7 @@ This repository contains the following files and folders:
 
 ### Getting Started
 
+For this system, we develop from scratch where we do not use any framework to develop this system.
 To access the main page which is the login page, http://localhost/FKEduSearch/Expert/index.php
 which required to start the xampp [Apache, MySQL] and need to import the provided sql into xampp.
 
