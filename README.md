@@ -5,7 +5,7 @@ Hello! 👋 I'm Muhammad Aminuddin Bin Ramli, and this is my first upload on Git
 This repository serves as my initial project on GitHub, marking the beginning of my journey into version control and collaborative development.
 
 ### Purpose
-This repository represents my contribution to my web application subject's mini-project focusing on the topic of fkedusearch. As part of this project, I am in charge for the login and the expert role in the system.
+This repository represents my contribution to my web application subject's mini-project focusing on the topic of fkedusearch. As part of this project, I am in charge for the **login** and the **expert** role in the system.
 
 ### Contents
 
