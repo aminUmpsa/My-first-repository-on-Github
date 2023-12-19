@@ -1,0 +1,11 @@
+body {
+    overflow-y: scroll; /* Add a vertical scrollbar */
+  }
+  
+  .content {
+    /* Set a height or max-height to limit the content area */
+    height: 500px;
+    /* or */
+    max-height: 500px;
+  }
+  

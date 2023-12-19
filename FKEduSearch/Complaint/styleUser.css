@@ -1,0 +1,204 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  
+  .button-81 {
+    background-color: #18A0FB;
+    border: 0 solid #e2e8f0;
+    border-radius: 1.5rem;
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1;
+    padding: 1rem 1.6rem;
+    text-align: center;
+    text-decoration: none #0d172a solid;
+    text-decoration-thickness: auto;
+    transition: all .1s cubic-bezier(.4, 0, .2, 1);
+    box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-81:hover {
+    background-color: #A5DBFF;
+    color: #0b3b5c;
+  }
+  
+  .button-48 {
+    appearance: none;
+    background-color: #FFFFFF;
+    border-width: 0;
+    box-sizing: border-box;
+    color: #000000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Clarkson,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 1em;
+    margin: 0;
+    opacity: 1;
+    outline: 0;
+    padding: 1.5em 2.2em;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: geometricprecision;
+    text-transform: uppercase;
+    transition: opacity 300ms cubic-bezier(.694, 0, 0.335, 1),background-color 100ms cubic-bezier(.694, 0, 0.335, 1),color 100ms cubic-bezier(.694, 0, 0.335, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    white-space: nowrap;
+    border-radius: 1.5rem;
+  }
+  
+  .button-48:hover {
+    background-color: #18A0FB;
+    color: #fff;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    box-shadow: 1px 12px 20px 1px rgba(0, 0, 255, .2);
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    text-align: center;
+    position: absolute;
+    top: 130px;
+    bottom: 150px;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  .center1{
+    margin: auto;
+    width: 50%;
+    border: none;
+    padding: 10px;
+    text-align: left;
+  }
+  .div{
+    position: sticky;
+  }
+  .input{
+      outline: none;
+      box-shadow: 0px 0px 2px #18A0FB;
+  }
+
+  .table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+	vertical-align: middle;
+  }
+
+  .thread {
+    background-color: #18A0FB;
+    color: white;
+  }
+  
+  .th, .td {
+    border-color: #868686;
+    padding: 8px;
+  }
+
+  .textbox-10 {
+    box-shadow: 1px 3px 10px 1px rgba(0, 0, 255, .2);
+	border-radius: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	outline: 0;
+	height: 30px;
+	width: 275px;
+    border-color: #18A0FB;
+    color: #18A0FB;
+    height: fit-content;
+}
+
+  .topnav {
+    overflow: hidden;
+    background-color: none;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #18A0FB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: none;
+  }
+  
+  .topnav a.active {
+    color: rgb(255, 0, 0);
+  }
+  
+  .topnav .search-container {
+    float: right;
+    border-color: #18A0FB;
+  }
+  
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .topnav .search-container button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    background-color: #18A0FB;
+    color: white;
+  }
+  
+  .topnav .search-container button:hover {
+    background: #9ef2ff;
+  }
+  
+  /*footer*/
+  
+  .foot {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .foot a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .foot a:hover {
+    background-color: #868686;
+    color: black;
+  }
